@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "ES6",
+    "target": "es5",
+    "jsx": "react",
+    "lib": ["ES6", "DOM"],
+    "noImplicitThis": false,
+    "allowJs": true
+  },
+  "include": ["src", "package"],
+  "exclude": ["node_modules", "dist"]
+}
